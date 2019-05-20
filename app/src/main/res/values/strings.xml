@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">PracticandoContinuaCasa</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Feo Rosonski</string>
+    <string name="nav_header_subtitle">el agente secreto</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Configuración</string>
+
+    <!-- Menu -->
+    <string name="contactos_permiso">Leer contactos</string>
+    <string name="compañeros_lista">Lista de compañeros</string>
+    <string name="promedio_calculadora">Calcular promedio</string>
+    <string name="compañeros_fotos">Compañeros</string>
+
+    <!-- Login -->
+    <string name="usuario">Usuario</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="ingresar">Ingresar</string>
+
+    <!-- Fragmento Promedio -->
+    <string name="continua1">Primera continua</string>
+    <string name="continua2">Segunda continua</string>
+    <string name="continua3">Tercera continua</string>
+    <string name="proyecto">Proyecto</string>
+    <string name="calcular">Calcular</string>
+    <string name="fondo_color">Color de fondo</string>
+    <string-array name="spinner_items">
+        <item>Blanco</item>
+        <item>Celeste</item>
+        <item>Verde</item>
+        <item>Rojo</item>
+    </string-array>
+
+    <!-- Fragmento Companeros Fotos -->
+    <string name="nombre">Nombre</string>
+    <string name="edad">Edad</string>
+
+</resources>
